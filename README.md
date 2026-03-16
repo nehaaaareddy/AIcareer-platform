@@ -11,6 +11,8 @@ An internship-ready full-stack platform that gives **deterministic**, skill-grou
 
 ## Live Demo
 - 🌐 Frontend: [https://gandharr.github.io/ai-career-platform/](https://gandharr.github.io/ai-career-platform/)
+
+✅ **GitHub Pages:** https://nehaaaareddy.github.io/AIcareer-platform/
 - ✅ Backend Health: [https://ai-career-platform-api.onrender.com/health](https://ai-career-platform-api.onrender.com/health)
 - 📘 Swagger: [https://ai-career-platform-api.onrender.com/docs](https://ai-career-platform-api.onrender.com/docs)
 
