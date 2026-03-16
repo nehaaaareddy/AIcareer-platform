@@ -2,7 +2,7 @@
 
 > Parse resume → extract skills → rank careers → explain match → close skill gaps.
 
-[![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://gandharr.github.io/ai-career-platform/)
+[![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://nehaaaareddy.github.io/AIcareer-platform/)
 [![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://ai-career-platform-api.onrender.com/docs)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
@@ -10,7 +10,7 @@
 An internship-ready full-stack platform that gives **deterministic**, skill-grounded career recommendations from uploaded resumes.
 
 ## Live Demo
-- 🌐 Frontend: [https://gandharr.github.io/ai-career-platform/](https://gandharr.github.io/ai-career-platform/)
+- 🌐 Frontend: [https://nehaaaareddy.github.io/AIcareer-platform/](https://nehaaaareddy.github.io/AIcareer-platform/)
 
 ✅ **GitHub Pages:** https://nehaaaareddy.github.io/AIcareer-platform/
 - ✅ Backend Health: [https://ai-career-platform-api.onrender.com/health](https://ai-career-platform-api.onrender.com/health)
@@ -19,10 +19,10 @@ An internship-ready full-stack platform that gives **deterministic**, skill-grou
 ## Screenshots
 
 ### Dashboard
-![CareerAI Dashboard](https://raw.githubusercontent.com/gandharr/ai-career-platform/main/docs/screenshots/dashboard-home.png?v=20260315)
+![CareerAI Dashboard](https://raw.githubusercontent.com/nehaaaareddy/AIcareer-platform/main/docs/screenshots/dashboard-home.png?v=20260315)
 
 ### API Docs
-![CareerAI API Docs](https://raw.githubusercontent.com/gandharr/ai-career-platform/main/docs/screenshots/api-docs.png)
+![CareerAI API Docs](https://raw.githubusercontent.com/nehaaaareddy/AIcareer-platform/main/docs/screenshots/api-docs.png)
 
 ## ✨ Key Highlights
 - Resume parsing for `.pdf`, `.docx`, `.txt`
